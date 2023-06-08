@@ -5,17 +5,12 @@
 </p> 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="200">
-
-
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="200">
 
 <h3> I'm Ahmed Elkady from Egypt. I'm a Front-End Developer. I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm junior web developer and learning increasingly. </h3>
 
-
-	
-
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 100% height=95px>
 
 ### Languages and Tools 🛠 : 
 
@@ -33,7 +28,7 @@
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
-<a href="https://linkedin.com/in/ahmedelkady147" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudayman2019" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmedelkady147" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedelkady147" height="30" width="40" /></a>
 
 
 
